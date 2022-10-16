@@ -10,9 +10,7 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" width="16" /> &nbsp; &nbsp; Python
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; React
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; React Native
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; ReactJS and React Native
 
 <picture>
   <source srcset="https://www.hengtaravann.com/images/languages/nextjs.svg" media="(prefers-color-scheme: dark)" />
