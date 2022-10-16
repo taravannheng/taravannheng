@@ -14,7 +14,11 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; React Native
 
-<img srcset="https://www.hengtaravann.com/images/languages/nextjs.svg#gh-dark-mode-only, https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only" src="https://www.hengtaravann.com/images/languages/nextjs.svg" height="16" width="16" /> &nbsp; &nbsp; NextJS
+<picture>
+  <source srcset="https://www.hengtaravann.com/images/languages/nextjs.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="16" width="16" />
+</picture>  &nbsp; &nbsp; NextJS
+<p></p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="16" width="16" /> &nbsp; &nbsp; Redux
 
