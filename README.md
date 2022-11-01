@@ -29,5 +29,7 @@ The following are some of the technologies that I'm familiar with:
 Currently, I am learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" width="16" /> &nbsp; &nbsp; NodeJS
           
           
