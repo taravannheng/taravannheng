@@ -10,6 +10,8 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="16" width="16" /> &nbsp; &nbsp; JavaScript
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" width="16" /> &nbsp; &nbsp; TypeScript
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" width="16" /> &nbsp; &nbsp; Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; ReactJS and React Native
@@ -23,6 +25,8 @@ The following are some of the technologies that I'm familiar with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="16" width="16" /> &nbsp; &nbsp; Redux
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16" width="16" /> &nbsp; &nbsp; Sass
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="16" width="16" /> &nbsp; &nbsp; TailwindCSS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Firebase
 
