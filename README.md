@@ -16,6 +16,8 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; ReactJS and React Native
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" width="16" /> &nbsp; &nbsp; NodeJS
+
 <picture>
   <source srcset="https://www.hengtaravann.com/images/languages/nextjs.svg" media="(prefers-color-scheme: dark)" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="16" width="16" />
