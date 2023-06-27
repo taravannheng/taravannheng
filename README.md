@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Taravann Heng. A developer/designer. I have some experiences doing both UX design and frontend development works for mobile apps and websites. Currently, I'm focusing on frontend web development.
+I'm Taravann Heng. A developer. I have some experiences doing frontend development works for websites. Currently, I'm focusing on frontend web development.
 
 ---
 
