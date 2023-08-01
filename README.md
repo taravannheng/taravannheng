@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Taravann Heng. A developer. I have some experiences doing frontend development works for websites. Currently, I'm focusing on frontend web development.
+I'm Taravann Heng. A software developer. I have some experiences doing frontend development works for websites. Currently, I'm focusing on frontend web development.
 
 ---
 
