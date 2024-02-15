@@ -6,7 +6,7 @@ I'm Taravann Heng. A software developer. I have some experiences doing frontend 
 
 The following are some of the technologies that I'm familiar with:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services (Certified Cloud Practitioner)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services (Certified Cloud Practitioner)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="16" width="16" /> &nbsp; &nbsp; JavaScript
 
