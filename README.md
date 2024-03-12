@@ -6,7 +6,7 @@ I'm Taravann Heng. A software developer. I have some experiences doing frontend 
 
 The following are some of the technologies that I'm familiar with:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services (Certified Cloud Practitioner)
+#### Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="16" width="16" /> &nbsp; &nbsp; JavaScript
 
@@ -14,7 +14,7 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" width="16" /> &nbsp; &nbsp; Python
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; ReactJS and React Native
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; ReactJS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" width="16" /> &nbsp; &nbsp; NodeJS
 
@@ -30,16 +30,18 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="16" width="16" /> &nbsp; &nbsp; TailwindCSS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Firebase
-
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="16" width="16" /> &nbsp; &nbsp; Framer Motion
 
+#### Mobile Development
 
-<!-- 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="16" width="16" /> &nbsp; &nbsp; Flutter
 
-Currently, I am learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; React Native
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" width="16" /> &nbsp; &nbsp; NodeJS          
+#### Others
 
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services (Certified Cloud Practitioner)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Docker
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Firebase
