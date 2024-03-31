@@ -36,8 +36,6 @@ The following are some of the technologies that I'm familiar with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="16" width="16" /> &nbsp; &nbsp; Flutter
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" width="16" /> &nbsp; &nbsp; React Native
-
 #### Others
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="16" width="16" /> &nbsp; &nbsp; Amazon Web Services (Certified Cloud Practitioner)
