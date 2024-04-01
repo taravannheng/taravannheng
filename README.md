@@ -24,14 +24,6 @@ The following are some of the technologies that I'm familiar with:
 </picture>  &nbsp; &nbsp; NextJS
 <p></p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="16" width="16" /> &nbsp; &nbsp; Redux
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16" width="16" /> &nbsp; &nbsp; Sass
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="16" width="16" /> &nbsp; &nbsp; TailwindCSS
-
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="16" width="16" /> &nbsp; &nbsp; Framer Motion
-
 #### Mobile Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="16" width="16" /> &nbsp; &nbsp; Flutter
