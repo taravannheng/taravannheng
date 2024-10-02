@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Taravann Heng. A software developer. I have some experiences doing frontend development works for websites. Currently, I'm focusing on frontend web development.
+I'm Taravann Heng. A software developer.
 
+<!--
 ---
 
 The following are some of the technologies that I'm familiar with:
@@ -35,3 +36,5 @@ The following are some of the technologies that I'm familiar with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Docker
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Firebase
+
+-->
