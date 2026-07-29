@@ -7,6 +7,12 @@ I'm Taravann Heng. A software developer.
 
 The following are some of the technologies that I'm familiar with:
 
+#### Mobile Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="16" width="16" /> &nbsp; &nbsp; Flutter
+
+<!--
+
 #### Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="16" width="16" /> &nbsp; &nbsp; JavaScript
@@ -23,15 +29,15 @@ The following are some of the technologies that I'm familiar with:
 </picture>  &nbsp; &nbsp; NextJS
 <p></p>
 
-#### Mobile Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="16" width="16" /> &nbsp; &nbsp; Flutter
+
+
 
 #### Others
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="16" width="16" /> &nbsp; &nbsp; Docker
 
-<!--
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" width="16" /> &nbsp; &nbsp; Python
 
